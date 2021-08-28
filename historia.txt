@@ -1,1 +1,4 @@
-Esta es la primera clase de desarrollo web de la especializacion en IoT.
+Esta es la primera clase de desarrollo web de la especialización en IoT.
+como podre hacer una historia de tiempo
+modificación para probar el git reset
+esta es una nueva linea de tiempo
